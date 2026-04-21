@@ -47,4 +47,4 @@ It helps in understanding content patterns and supports data-driven decision-mak
 - DAX (for calculations)  
 
 ---
-![Dashboard](Images/dashboard_screenshot.png)
+![Dashboard](https://github.com/sameerkhan03-eng/Netflix-Movies-TV-Shows-Data-Analysis-Dashboard-Power-BI-/blob/main/Screenshot%202026-04-21%20113337.png)
